@@ -62,6 +62,7 @@ public class Sketch extends PApplet {
 	 fill(153, 76, 0);
 	 rect(275, 349, 65, 100);
 	 
+	 // Doorknob
 	 fill(204, 204, 0);
 	 ellipse(330, 400, 10, 10);
 	 
